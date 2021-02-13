@@ -42,3 +42,7 @@
 
 #### 변경된 프로젝트 생성 방법
 * OpenJDK 설치는 기존과 동일합니다. 버전만 15 버전으로 설치 하시면 됩니다. [Link](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) <br>
+
+### 실행 화면
+ <img src="/images/스크린샷 2021-02-14 오전 4.59.01.png" width="1200" height="500"></img> <br>
+ <img src="/images/스크린샷 2021-02-14 오전 4.59.39.png" width="1200" height="500"></img>
