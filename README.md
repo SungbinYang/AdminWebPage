@@ -36,6 +36,9 @@
 
 * JPA ( Hibernate )
 * DI 부분 Autowired -> 생성자 주입 패턴으로 변경 
+
+* Test
+  - JUnit5
 <br><br>
 
   
