@@ -18,10 +18,10 @@
 
 #### 사용 Spec
 * OS
- - MAC
+  - MAC
 
 * IDE
- - IntelliJ Ultimate
+  - IntelliJ Ultimate
 
 * Java 
   - 15 [Link](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
@@ -32,7 +32,7 @@
 * Lombok
 
 * DB
- - MySQL
+  - MySQL
 
 * JPA ( Hibernate )
 * DI 부분 Autowired -> 생성자 주입 패턴으로 변경 
